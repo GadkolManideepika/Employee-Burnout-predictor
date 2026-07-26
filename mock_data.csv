@@ -1,0 +1,8 @@
+employee_id,timestamp,message_text,sentiment,sentiment_score,risk_score
+E001,2026-02-20,I feel exhausted with deadlines,NEGATIVE,-0.9995726943016052,High
+E001,2026-02-21,Work is killing me,NEGATIVE,-0.9993865489959717,High
+E001,2026-02-22,I cannot keep up anymore,NEGATIVE,-0.9997469782829285,High
+E002,2026-02-21,Great teamwork today!,POSITIVE,0.9998764991760254,Low
+E002,2026-02-23,Loving this project!,POSITIVE,0.9998817443847656,Low
+E003,2026-02-22,I'm overwhelmed with tasks,NEGATIVE,-0.699368953704834,Medium
+E003,2026-02-24,Not sure how much longer I can do this,NEGATIVE,-0.9996623992919922,Medium
